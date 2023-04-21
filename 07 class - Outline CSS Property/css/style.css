@@ -1,0 +1,7 @@
+h1{
+    margin: 100px;
+    border: 1px solid red;
+    outline: 10px solid blue;
+    outline-offset: 30px;
+    
+}
