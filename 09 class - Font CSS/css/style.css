@@ -1,0 +1,11 @@
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 900;
+}
+
+p{
+    font-weight: 900;
+    font-variant: small-caps;
+}
