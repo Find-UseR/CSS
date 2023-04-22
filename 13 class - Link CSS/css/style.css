@@ -1,0 +1,23 @@
+body{
+    margin: 100px;
+}
+
+a{
+    color: #ef26d4;
+    text-decoration: none;
+    background: #22ff00;
+    padding: 15px 20px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+a:visited{
+    background: red;
+    color: #fff;
+}
+
+a:active{
+    background: green;
+    color: black;
+}
+
+
