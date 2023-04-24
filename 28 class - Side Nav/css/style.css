@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+
+}
+ul.sidenav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    height: 100%;
+    background: #f1f1f1;
+    position: fixed;
+    overflow: auto;
+}
+
+ul.sidenav li a{
+    display: block;
+    color: #000;
+    text-decoration: none;
+    padding: 12px 20px;
+}
+
+ul.sidenav li a.active{
+    background-color: red;
+    color: white;
+}
+
+ul.sidenav li a:hover:not(.active){
+    background: #555;
+    color: white;
+}
+
+
+
+
+
+
+
+
