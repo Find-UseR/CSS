@@ -1,0 +1,69 @@
+.box1{
+    width: 100%;
+    height: 150px;
+    background: red;
+    border: 1px solid white;
+    font-size: 30px;
+    color: white;
+    opacity: 0.3
+}
+
+.box2{
+    width: 100%;
+    height: 150px;
+    background: red;
+    border: 1px solid  white;
+    font-size: 30px;
+    color: white;
+    opacity: 0.6
+}
+.box3{
+    width: 100%;
+    height: 150px;
+    background: red;
+    border: 1px solid white;
+    font-size: 30px;
+    color: white;
+    opacity: 1
+}
+
+
+
+
+.background{
+    background: url(../img/image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.box{
+    margin: 30px;
+    background: #fff;
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+
+.background .box p{
+    padding: 30px;
+    font-size: 25px;
+    line-height: 1.5;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
