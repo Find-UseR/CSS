@@ -1,0 +1,63 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background: red;
+    left: 300px;
+    position: relative;
+}
+.box::before{
+    content: "";
+    display: block;
+    width: 150px;
+    height: 350px;
+    background: blue;
+    left: -200px;
+    position: absolute;
+}
+.box::after{
+    content: "";
+    display: block;
+    width: 150px;
+    height: 350px;
+    background: green;
+    left: 200px;
+    position: absolute;
+}
+
+
+
+a{
+    margin-top: 300px;
+    display: inline-block;
+    background: red;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    
+}
+
+a:hover{
+    background: green;
+}
+
+a:active{
+    background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
