@@ -1,0 +1,62 @@
+h1{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+span.a{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border: 1px solid black;
+    display: inline;
+}
+span.b{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border: 1px solid black;
+    display: inline-block;
+}
+span.c{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    border: 1px solid black;
+    display: block;
+}
+
+
+.menu{
+    background: red;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    padding: 20px 30px;
+}
+
+ul li a{
+    font-size: 25px;
+    text-decoration: none;
+    color: white;
+}
+
+ul li:hover{
+    background: blue;
+}
+
+ul li:hover a{
+    color: white;
+}
+
+
+
+
+
+
