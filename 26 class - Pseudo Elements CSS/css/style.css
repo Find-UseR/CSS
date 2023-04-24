@@ -1,0 +1,21 @@
+p::first-letter{
+    color: red;
+    font-size: 100px;
+    
+}
+
+h4::first-line{
+    color: blue;
+    font-size: 40px;
+}
+
+
+h3::first-letter{
+    color: red;
+    font-size: 80px;
+}
+
+h3::first-line{
+    color: blue;
+    font-size: 20px;
+}
