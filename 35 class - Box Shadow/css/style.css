@@ -1,0 +1,45 @@
+
+.box1{
+    width: 150px;
+    height: 200px;
+    background: yellow;
+    box-shadow: 10px 10px;
+}
+
+.box2{
+    width: 150px;
+    height: 200px;
+    background: yellow;
+    box-shadow: 10px 10px gray;
+}
+
+.box3{
+    width: 150px;
+    height: 200px;
+    background: yellow;
+    box-shadow: 10px 10px 5px gray;
+}
+
+
+.box4{
+    width: 250px;
+    height: 250px;
+    background: white;
+    border: 1px solid #dadada;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.box4 img{
+    width: 250px;
+    height: 200px;
+}
+
+.box4 .container p{
+    text-align: center;
+}
+
+
+
+
+
+
