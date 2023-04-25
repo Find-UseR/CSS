@@ -1,0 +1,8 @@
+.box{
+    width: 150px;
+    height: 150px;
+    background: red;
+    color: white;
+    text-align: center;
+    transform: skewY(45deg)
+}
